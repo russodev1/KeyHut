@@ -16,8 +16,3 @@ Bem-vindo ao repositório do **Site de Keys de Jogos**, um projeto desenvolvido 
 - Backend: `Node.js`, `Express`, `Axios`, `JSDOM`
 - Outros: 
 
-## 🚀 Como executar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
