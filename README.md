@@ -61,4 +61,4 @@ Pull requests são bem-vindos! Se quiser sugerir melhorias, fique à vontade par
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
-> Desenvolvido com ❤️ por Gabriel Ferreira Alves para a KeyHut.
+> Desenvolvido com ❤️ pela equipe KeyHut.
