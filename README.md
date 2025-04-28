@@ -14,7 +14,7 @@ Bem-vindo ao repositório do **Site de Keys de Jogos**, um projeto desenvolvido 
 
 - Frontend: `HTML`, `CSS`, `JavaScript`, `Vite`
 - Backend: `Node.js`, `Express`, `Axios`, `JSDOM`
-- Outros: *(adicione aqui se usar banco de dados, autenticação, bibliotecas etc.)*
+- Outros: 
 
 ## 🚀 Como executar o projeto
 
