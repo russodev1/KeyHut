@@ -1,6 +1,6 @@
-# 🎮 Site de Keys de Jogos
+# 🎮 KeyHut
 
-Bem-vindo ao repositório do **Site de Keys de Jogos**, um projeto desenvolvido para facilitar a compra e venda de *game keys* de forma segura, rápida e prática.
+Bem-vindo ao repositório do **KeyHut**, um projeto desenvolvido para facilitar a compra e venda de *game keys* de forma segura, rápida e prática.
 
 ## ✨ Funcionalidades
 
