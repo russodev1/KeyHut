@@ -42,31 +42,6 @@
 |-- README.md
 |-- package.json
 ```
-
-## Como Rodar Localmente
-
-### 1. Clone o Repositório
-```bash
-git clone https://github.com/seuusuario/keyhut.git
-cd keyhut
-```
-
-### 2. Backend
-```bash
-cd backend
-npm install
-cp .env.example .env  # Configure o banco de dados e JWT_SECRET
-npx prisma migrate dev  # Rodar migrations
-npm run dev
-```
-
-### 3. Frontend
-```bash
-cd ../frontend
-npm install
-npm run dev
-```
-
 ## Diferenciais da KeyHut
 - 🔌 **Integração Completa** entre frontend, backend e banco de dados.
 - 🌟 **UX Moderno**: responsividade, dark mode e carregamento dinâmico.
